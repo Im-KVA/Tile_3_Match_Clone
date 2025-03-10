@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4d84275a5e56ab4e91c84501e87b798, type: 3}
+  m_Name: SoundsSO
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: SPAWNBLOCK
+    volume: 1
+    mixer: {fileID: 24300002, guid: 6b134c404748c1848b5252619a5cab91, type: 2}
+    sounds:
+    - {fileID: 8300000, guid: 78f61cd7887fd7442abc8d12e52c00ab, type: 3}
+  - name: TILE
+    volume: 1
+    mixer: {fileID: 24300002, guid: 6b134c404748c1848b5252619a5cab91, type: 2}
+    sounds:
+    - {fileID: 8300000, guid: f89a2cbb6713306498be1f0280cf66c0, type: 3}
+    - {fileID: 8300000, guid: c9cdcd39003542d41946b97c0523e709, type: 3}
+  - name: COMBO
+    volume: 1
+    mixer: {fileID: 24300002, guid: 6b134c404748c1848b5252619a5cab91, type: 2}
+    sounds:
+    - {fileID: 8300000, guid: 1131cc7e707357e4c88b21b7e8b3b4ac, type: 3}
+    - {fileID: 8300000, guid: fe7d004c5af98a24c86afcd6571e00d8, type: 3}
+  - name: LOSE
+    volume: 1
+    mixer: {fileID: 24300002, guid: 6b134c404748c1848b5252619a5cab91, type: 2}
+    sounds:
+    - {fileID: 8300000, guid: a7ee6f284c63a9841bba7bf37a7352e4, type: 3}
+  - name: WIN
+    volume: 1
+    mixer: {fileID: 24300002, guid: 6b134c404748c1848b5252619a5cab91, type: 2}
+    sounds:
+    - {fileID: 8300000, guid: 060cbaded51d69643a1b52b042c6f757, type: 3}
+  - name: FIREWORK
+    volume: 1
+    mixer: {fileID: 24300002, guid: 6b134c404748c1848b5252619a5cab91, type: 2}
+    sounds:
+    - {fileID: 8300000, guid: df3c8f224587c264ca3714ea6901ae14, type: 3}
+  - name: BUTTON
+    volume: 1
+    mixer: {fileID: 24300002, guid: 6b134c404748c1848b5252619a5cab91, type: 2}
+    sounds:
+    - {fileID: 8300000, guid: 87b0aeb89b44ac340847be856161128c, type: 3}
