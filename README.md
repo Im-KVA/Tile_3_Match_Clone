@@ -3,5 +3,5 @@
 - Learning purpose only
 
 ## Previews
-<img src="Screenshot Home.png"> <img src="Screenshot Loading.png"> 
-<img src="Screenshot Pause.png"> <img src="Screenshot Shop.png"> 
+<img src="Screenshot Home.png" width = 600> <img src="Screenshot Loading.png" width = 600> 
+<img src="Screenshot Pause.png" width = 600> <img src="Screenshot Shop.png" width = 600> 
